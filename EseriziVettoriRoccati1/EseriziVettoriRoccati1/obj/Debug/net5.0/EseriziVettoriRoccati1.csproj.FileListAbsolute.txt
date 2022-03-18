@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\bin\Debug\net5.0\EseriziVettoriRoccati1.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\bin\Debug\net5.0\EseriziVettoriRoccati1.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\bin\Debug\net5.0\EseriziVettoriRoccati1.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\bin\Debug\net5.0\EseriziVettoriRoccati1.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\bin\Debug\net5.0\EseriziVettoriRoccati1.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\bin\Debug\net5.0\ref\EseriziVettoriRoccati1.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\bin\Debug\net5.0\EseriziVettoriRoccati1.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\obj\Debug\net5.0\EseriziVettoriRoccati1.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\obj\Debug\net5.0\EseriziVettoriRoccati1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\obj\Debug\net5.0\EseriziVettoriRoccati1.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\obj\Debug\net5.0\EseriziVettoriRoccati1.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\obj\Debug\net5.0\EseriziVettoriRoccati1.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\obj\Debug\net5.0\EseriziVettoriRoccati1.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\obj\Debug\net5.0\ref\EseriziVettoriRoccati1.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\obj\Debug\net5.0\EseriziVettoriRoccati1.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EseriziVettoriRoccati1\EseriziVettoriRoccati1\obj\Debug\net5.0\EseriziVettoriRoccati1.genruntimeconfig.cache
