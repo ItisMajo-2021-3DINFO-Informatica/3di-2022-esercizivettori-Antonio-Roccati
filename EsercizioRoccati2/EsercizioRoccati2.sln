@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsercizioRoccati2", "EsercizioRoccati2\EsercizioRoccati2.csproj", "{EB43F52B-FF47-44F3-99A8-9398B5454DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB43F52B-FF47-44F3-99A8-9398B5454DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB43F52B-FF47-44F3-99A8-9398B5454DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB43F52B-FF47-44F3-99A8-9398B5454DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB43F52B-FF47-44F3-99A8-9398B5454DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B37F73A-ED37-4881-9BC6-2542482EB447}
+	EndGlobalSection
+EndGlobal

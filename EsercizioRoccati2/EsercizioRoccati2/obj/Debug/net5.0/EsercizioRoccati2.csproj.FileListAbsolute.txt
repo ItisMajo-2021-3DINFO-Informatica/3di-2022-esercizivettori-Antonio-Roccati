@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\bin\Debug\net5.0\EsercizioRoccati2.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\bin\Debug\net5.0\EsercizioRoccati2.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\bin\Debug\net5.0\EsercizioRoccati2.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\bin\Debug\net5.0\EsercizioRoccati2.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\bin\Debug\net5.0\EsercizioRoccati2.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\bin\Debug\net5.0\ref\EsercizioRoccati2.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\bin\Debug\net5.0\EsercizioRoccati2.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\obj\Debug\net5.0\EsercizioRoccati2.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\obj\Debug\net5.0\EsercizioRoccati2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\obj\Debug\net5.0\EsercizioRoccati2.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\obj\Debug\net5.0\EsercizioRoccati2.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\obj\Debug\net5.0\EsercizioRoccati2.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\obj\Debug\net5.0\EsercizioRoccati2.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\obj\Debug\net5.0\ref\EsercizioRoccati2.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\obj\Debug\net5.0\EsercizioRoccati2.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-Antonio-Roccati\EsercizioRoccati2\EsercizioRoccati2\obj\Debug\net5.0\EsercizioRoccati2.genruntimeconfig.cache
