@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\bin\Debug\net5.0\RoccatoGol.exe
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\bin\Debug\net5.0\RoccatoGol.deps.json
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\bin\Debug\net5.0\RoccatoGol.runtimeconfig.json
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\bin\Debug\net5.0\RoccatoGol.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\bin\Debug\net5.0\RoccatoGol.dll
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\bin\Debug\net5.0\ref\RoccatoGol.dll
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\bin\Debug\net5.0\RoccatoGol.pdb
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\obj\Debug\net5.0\RoccatoGol.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\obj\Debug\net5.0\RoccatoGol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\obj\Debug\net5.0\RoccatoGol.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\obj\Debug\net5.0\RoccatoGol.AssemblyInfo.cs
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\obj\Debug\net5.0\RoccatoGol.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\obj\Debug\net5.0\RoccatoGol.dll
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\obj\Debug\net5.0\ref\RoccatoGol.dll
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\obj\Debug\net5.0\RoccatoGol.pdb
+C:\Users\Utente\Desktop\RoccatoGol\RoccatoGol\obj\Debug\net5.0\RoccatoGol.genruntimeconfig.cache
